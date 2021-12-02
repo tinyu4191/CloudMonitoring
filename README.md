@@ -24,7 +24,7 @@
 
 ### CloudWatch
 ### Azure Monitor
-1. C#, Java, Javascript, Node.js, Angular, React
+1. `C#` `Java` `Javascript` `Node.js` `Angular` `React`
 2. Application Insight 機制 => SDK部屬agent => 收集遙測資料
 3. 不一定部屬在雲上，本機也是可以監測的
 ### Cloud Monitoring (Stackdriver)
